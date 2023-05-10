@@ -145,3 +145,21 @@ max-height: 120px;
 
 
 
+/*contact pic*/
+.cpic {
+  border-radius: 50%;
+  max-width: 25%;
+  height: auto;
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+
